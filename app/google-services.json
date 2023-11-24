@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "520035917805",
+    "firebase_url": "https://formation-51750-default-rtdb.firebaseio.com",
+    "project_id": "formation-51750",
+    "storage_bucket": "formation-51750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520035917805:android:550021e8bd670276e711e4",
+        "android_client_info": {
+          "package_name": "com.example.formation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQaOebWdyYdKIPiNqNav-Psc1HICPSyVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520035917805:android:0fd51730828c2e42e711e4",
+        "android_client_info": {
+          "package_name": "com.example.projetformation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQaOebWdyYdKIPiNqNav-Psc1HICPSyVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
